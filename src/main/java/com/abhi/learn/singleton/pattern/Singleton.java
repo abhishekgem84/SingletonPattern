@@ -2,7 +2,7 @@ package com.abhi.learn.singleton.pattern;
 
 import java.io.ObjectStreamException;
 import java.io.Serializable;
-//This is demonstration of singleton desgin pattern
+//This is demonstration of singleton desgin pattern with serializable
 public class Singleton implements Serializable {
 
 	private static final long serialVersionUID = 1346318162223585205L;
